@@ -1,7 +1,7 @@
 #c.vim
 
 #DESCRIPTION
-This is a mirror of version 6.1 of c.vim, from http://www.vim.org/scripts/script.php?script_id=213
+This is a mirror of version 6.1.1(2014/04/21) of c.vim, from http://www.vim.org/scripts/script.php?script_id=213
 
 The mirror you are using may be https://github.com/vim-scripts/c.vim
 but it's not the latest version
